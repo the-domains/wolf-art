@@ -1,0 +1,14 @@
+layout_spectrum: 0.2379162
+color:
+  saturation: 0.7920235
+  lightness: 0.8732983
+  brandStrength: 0.09951002
+  rhythmicContrast: 0.3614319
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.3822981
+name: wolf.art
