@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[wolf.art]]></title>
         <description><![CDATA[wolf.art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wolf-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 20:53:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 20:54:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wolf-art/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fa83317-284d-48de-abdb-c184cbd0ca2b.png">]]></description>
+            <link>https://thegrid.ai/wolf-art/0de311df-8ac3-45b5-ba5a-5a52c50ca382/index.html</link>
+            <guid isPermaLink="false">0de311df-8ac3-45b5-ba5a-5a52c50ca382</guid>
+            <pubDate>Wed, 13 Apr 2016 20:53:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12ebead2-d555-49dc-bce2-063673fa2875.png">]]></description>
-            <link>undefinedef17f4ed-20c5-4216-9610-de6bf5598814/index.html</link>
+            <link>https://thegrid.ai/wolf-art/ef17f4ed-20c5-4216-9610-de6bf5598814/index.html</link>
             <guid isPermaLink="false">ef17f4ed-20c5-4216-9610-de6bf5598814</guid>
             <pubDate>Wed, 13 Apr 2016 20:53:23 GMT</pubDate>
         </item>
